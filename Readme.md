@@ -1,2 +1,2 @@
 Helllo my name is Anant...
-I study at SRM
+I study at SRM University
